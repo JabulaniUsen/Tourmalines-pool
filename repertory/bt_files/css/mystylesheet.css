@@ -1,0 +1,39 @@
+.success-msg {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-left-width: 1px;
+    border-radius: 3px;
+    border-left: 4px solid green;
+    /*	display:inline-block;*/
+}
+
+.danger-msg {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-left-width: 1px;
+    border-radius: 3px;
+    border-left: 4px solid red;
+    /*	display:inline-block;*/
+}
+
+.search_display1 {
+    border: 1px solid black;
+    border-left: 4px solid red;
+    border-radius: 3px 3px 3px 3px;
+    font-size: 16px;
+    background-color: black;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    display: inline-block;
+}
+
+.bg-image-header-two {
+    background-image: url('/repertory/img/grad.png');
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+    padding-top: 50px;
+}

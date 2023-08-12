@@ -1,0 +1,116 @@
+body{
+               background:#f7f6f6;
+          }
+           #div1{
+               background:#00BFFF;
+               color: white;
+               height: 40px;
+          }
+          #div2{
+               
+               height: 50px;
+          }
+          #div2 img{
+               margin-left: 100px;
+          }
+          #div2 p{
+               text-align: center;
+          }
+           #div1 p{
+               
+          text-align: center;
+          font-weight: bold;
+          padding-top: 10px;
+          }
+        #nav1{
+          background: #00BFFF;
+          color: white;
+          width: 100%;
+          height: 80px;
+        }
+        #nav1 a{
+          color: white;
+          font-weight: bold;
+
+        }
+        #nav1 li{
+          
+        }
+        #nav1 a:hover{
+          color: orange;
+          background: #00BFFF;
+          
+        }
+          #carat img{
+              height: 600px;
+          }
+          .item h1{
+               font-weight: bold;
+               font-size: 50px;
+               padding-bottom: 155px;
+          }
+              #sect2 h2{
+               text-align: center;
+               font-weight: bold;
+              }
+              #sect2 p{
+               text-align: center;
+              
+              }
+              #sect2 button a{
+               color: white;
+               text-decoration: none;
+               font-weight: bold;
+              }
+              .navbar-brand img{
+                   height: 105px;
+                   width: 450px;
+                   padding-left: 50px;
+                   padding-bottom: 15px;
+              }
+               #sect2{
+               background: #00BFFF;
+               height: 150px;
+              }
+              #sect3{
+                  background:  #eae8e8;
+                  padding-right: 40px;
+              }
+              #sect3 h2{
+                  font-weight: bold;
+                  font-style: italic;
+              }
+              #sect3 img{
+                width: 500px;
+                padding: 10px;
+              }
+              #sect4{
+                background: black;
+                color: white;
+              }
+              #sect4 h1{
+                color: #00BFFF;
+                font-weight: bold;
+                font-size: 17px;
+              }
+              #sect4 img{
+                padding-top: 20px;
+              }
+               #sect6 img{
+               height: 200px;
+               width: 2000px;
+              }
+               #sect7{
+                   padding-top: 40px;
+               }
+               footer{
+                background:#00BFFF;
+                color: black;
+               }
+               footer p{
+                padding-top: 15px;
+               }
+               #sect4 img{
+                height: 85px;
+                width: 200px;
+               }
